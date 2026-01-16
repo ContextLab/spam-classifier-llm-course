@@ -499,9 +499,8 @@ If you use external datasets, you must cite them clearly in your notebook.
 
 This assignment is submitted via **GitHub Classroom**. Follow these steps:
 
-1. **Accept the assignment**: Click the assignment link provided in Canvas or by your instructor
-   - Repository: [github.com/ContextLab/spam-classifier-llm-course](https://github.com/ContextLab/spam-classifier-llm-course)
-   - This creates your own private repository for the assignment
+1. **Accept the assignment**: Click the [assignment link](https://classroom.github.com/a/ttYZnDoc) to create your private fork of the repository.
+   - Assignment repository: [github.com/ContextLab/spam-classifier-llm-course](https://github.com/ContextLab/spam-classifier-llm-course)
 
 2. **Clone your repository**: 
    ```bash
@@ -512,7 +511,7 @@ This assignment is submitted via **GitHub Classroom**. Follow these steps:
    - Work in Google Colab, Jupyter, or your preferred environment
    - Save your notebook to the repository
 
-4. **Commit and push your changes**:
+4. **Commit and push your changes (if working locally)**:
    ```bash
    git add .
    git commit -m "Complete SPAM classifier assignment"
