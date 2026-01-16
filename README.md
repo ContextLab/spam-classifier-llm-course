@@ -456,9 +456,9 @@ If your models aren't performing well:
 ## Resources
 
 ### Spam Detection Research
-- [Spam Filtering with Naive Bayes](https://www.cs.cmu.edu/~tom/mlbook/NBayesSpam.pdf) - Classic paper on Naive Bayes for spam
-- [Learning to Detect Phishing Emails](https://arxiv.org/abs/1702.01804) - Modern ML approaches
-- [A Survey of Learning-Based Techniques of Email Spam Filtering](https://arxiv.org/abs/0912.0520) - Comprehensive overview
+- [A Plan for Spam](https://paulgraham.com/spam.html) - Paul Graham's foundational essay on Bayesian spam filtering
+- [A Bayesian Approach to Filtering Junk E-Mail](https://cdn.aaai.org/Workshops/1998/WS-98-05/WS98-05-009.pdf) - Sahami et al., seminal academic paper (AAAI 1998)
+- [Machine Learning for E-mail Spam Filtering: Review, Techniques and Trends](https://arxiv.org/abs/1606.01042) - Comprehensive survey
 
 ### Transformer Fine-Tuning
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers) - Essential for BERT/DistilBERT
@@ -471,7 +471,7 @@ If your models aren't performing well:
 - [Confusion Matrix Guide](https://scikit-learn.org/stable/modules/model_evaluation.html#confusion-matrix)
 
 ### Adversarial Robustness
-- [Adversarial Examples for Natural Language](https://arxiv.org/abs/1801.07175)
+- [TextFooler: Is BERT Really Robust?](https://arxiv.org/abs/1907.11932) - Strong baseline for NLP adversarial attacks (AAAI 2020)
 - [TextAttack: Framework for Adversarial Attacks](https://github.com/QData/TextAttack)
 
 ### Handling Imbalanced Data
