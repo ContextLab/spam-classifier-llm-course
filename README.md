@@ -2,7 +2,7 @@
 
 > **Accept this assignment:** [GitHub Classroom Link](https://classroom.github.com/a/ttYZnDoc)
 >
-> **Due:** January 23, 2026 at 11:59 PM EST
+> **Due:** January 26, 2026 at 11:59 PM EST
 >
 > Click the link above to create your private repository for this assignment. Complete your work in Google Colab, then push your notebook to the repository before the deadline.
 
@@ -520,7 +520,7 @@ This assignment is submitted via **GitHub Classroom**. Follow these steps:
 
 5. **Verify submission**: Check that your latest commit appears in your GitHub repository before the deadline
 
-**Deadline**: January 23, 2026 at 11:59 PM EST
+**Deadline**: January 26, 2026 at 11:59 PM EST
 
 ### What to Submit
 Submit **one Jupyter notebook** (.ipynb file) in your GitHub Classroom repository.
